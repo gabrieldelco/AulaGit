@@ -10,3 +10,4 @@ Projeto de exemplo de uso do GitHub para a disciplina de Programação Orientada
 ## Versões
 
 * 01/10 - Versão 1: Cadastro
+* 13/10 - Versão final: Meu aniversário
